@@ -1,0 +1,2 @@
+# Timer
+Vanilla Javascript Stopwatch
